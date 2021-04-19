@@ -1,7 +1,7 @@
 # pacstrap
 
 > Install packages using Pacman to the specified new root directory.
-> More information: <https://manned.org/pacstrap>.
+> More information: <https://man.archlinux.org/man/pacstrap.8>.
 
 - Install the `base` package, Linux kernel and firmware for common hardware:
 
